@@ -39,6 +39,7 @@ R"E(
 		"blockReward": "0x4563918244F40000",
 		"registrar": "",
 		"networkID" : "0x03"
+		"nonceChainID": "0x1c",
 	},
 	"genesis": {
 		"nonce": "0x0000000000000042",
